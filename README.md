@@ -59,8 +59,65 @@
 ## Walkhrome
 ![Walkhrome](wallpapers/Walkhrome.jpg)
 
+## a_bird_flying_over_a_mountain
+![a_bird_flying_over_a_mountain](wallpapers/a_bird_flying_over_a_mountain.jpg)
+
+## a_black_and_white_image_of_a_group_of_people
+![a_black_and_white_image_of_a_group_of_people](wallpapers/a_black_and_white_image_of_a_group_of_people.png)
+
+## a_black_and_white_picture_of_a_man_holding_a_devil
+![a_black_and_white_picture_of_a_man_holding_a_devil](wallpapers/a_black_and_white_picture_of_a_man_holding_a_devil.jpg)
+
+## a_black_bird_with_a_sword
+![a_black_bird_with_a_sword](wallpapers/a_black_bird_with_a_sword.jpg)
+
+## a_black_sand_with_white_foamy_waves
+![a_black_sand_with_white_foamy_waves](wallpapers/a_black_sand_with_white_foamy_waves.png)
+
+## a_blue_sky_with_clouds
+![a_blue_sky_with_clouds](wallpapers/a_blue_sky_with_clouds.png)
+
+## a_cat_with_eyes_wide_open
+![a_cat_with_eyes_wide_open](wallpapers/a_cat_with_eyes_wide_open.jpg)
+
+## a_city_skyline_seen_through_a_window
+![a_city_skyline_seen_through_a_window](wallpapers/a_city_skyline_seen_through_a_window.jpg)
+
+## a_close_up_of_a_person_with_wings
+![a_close_up_of_a_person_with_wings](wallpapers/a_close_up_of_a_person_with_wings.jpg)
+
+## a_face_in_a_blue_light
+![a_face_in_a_blue_light](wallpapers/a_face_in_a_blue_light.jpeg)
+
+## a_man_sitting_in_a_chair
+![a_man_sitting_in_a_chair](wallpapers/a_man_sitting_in_a_chair.png)
+
+## a_mountain_with_a_lake_in_the_background
+![a_mountain_with_a_lake_in_the_background](wallpapers/a_mountain_with_a_lake_in_the_background.jpg)
+
+## a_painting_of_a_building_in_a_dark_landscape
+![a_painting_of_a_building_in_a_dark_landscape](wallpapers/a_painting_of_a_building_in_a_dark_landscape.png)
+
+## a_red_and_black_round_object_with_a_black_background
+![a_red_and_black_round_object_with_a_black_background](wallpapers/a_red_and_black_round_object_with_a_black_background.jpg)
+
+## a_red_object_in_the_sky
+![a_red_object_in_the_sky](wallpapers/a_red_object_in_the_sky.jpg)
+
+## a_satellite_in_space_with_a_black_text
+![a_satellite_in_space_with_a_black_text](wallpapers/a_satellite_in_space_with_a_black_text.jpg)
+
 ## a_skeleton_standing_on_a_pile_of_skulls
 ![a_skeleton_standing_on_a_pile_of_skulls](wallpapers/a_skeleton_standing_on_a_pile_of_skulls.png)
+
+## a_tree_and_a_rock
+![a_tree_and_a_rock](wallpapers/a_tree_and_a_rock.png)
+
+## a_white_and_black_rectangle_with_x_marks
+![a_white_and_black_rectangle_with_x_marks](wallpapers/a_white_and_black_rectangle_with_x_marks.jpg)
+
+## a_yellow_and_blue_sphere
+![a_yellow_and_blue_sphere](wallpapers/a_yellow_and_blue_sphere.png)
 
 ## aesthetic_deer
 ![aesthetic_deer](wallpapers/aesthetic_deer.png)
@@ -88,6 +145,9 @@
 
 ## cat_leaves
 ![cat_leaves](wallpapers/cat_leaves.png)
+
+## cherry-blossom
+![cherry-blossom](wallpapers/cherry-blossom.jpg)
 
 ## escape_velocity
 ![escape_velocity](wallpapers/escape_velocity.jpg)
@@ -130,6 +190,9 @@
 
 ## hut
 ![hut](wallpapers/hut.png)
+
+## in_the_memory_of_summer
+![in_the_memory_of_summer](wallpapers/in_the_memory_of_summer.jpg)
 
 ## island-night
 ![island-night](wallpapers/island-night.png)
@@ -199,6 +262,9 @@
 
 ## switch_swirl
 ![switch_swirl](wallpapers/switch_swirl.jpg)
+
+## the_earth_in_space
+![the_earth_in_space](wallpapers/the_earth_in_space.jpeg)
 
 ## the_fall
 ![the_fall](wallpapers/the_fall.jpg)
